@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "460783913154",
+    "project_id": "flutter-money-tracker-2e168",
+    "storage_bucket": "flutter-money-tracker-2e168.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:460783913154:android:e45c24f76e9362be54535b",
+        "android_client_info": {
+          "package_name": "com.example.flutter_money_tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "460783913154-9qhg0u8hm7cdd8c3fvh6ler1o9eugtfu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_money_tracker",
+            "certificate_hash": "0af0ef67864b6fe8cb9efb16ce81374b9fd6bdc6"
+          }
+        },
+        {
+          "client_id": "460783913154-panbdhj3ksnc2mc62bpgh8qf8pkhi44r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4dGVt12HtITfzRV0dp4zlhW-XhiUhDV4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "460783913154-panbdhj3ksnc2mc62bpgh8qf8pkhi44r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
